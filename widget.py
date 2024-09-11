@@ -43,6 +43,6 @@ class Widget(QWidget, Ui_Lambda):
                 result = str(eval(current_text))
                 self.typedin.setText(result)
             except ZeroDivisionError:
-                self.typedin.setText('sosi')
+                self.typedin.setText()
 
 
