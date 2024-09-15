@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/PycharmProjects/pythonProject4/media/videos/anim_render/480p15/partial_movie_files/lol/1185818338_1525462441_223132457.mp4'
